@@ -2,7 +2,7 @@ Package: com.michaelmelita1.campad12
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
-Depends: mobilesubstrate, firmware (<= 12.5)
+Depends: mobilesubstrate, firmware (<= 12.5), cy+model.ipad (= 4.1) | cy+model.ipad (= 4.2) | cy+model.ipad (= 4.3) | cy+model.ipad (= 4.4)| cy+model.ipad (= 4.5) | cy+model.ipad (= 4.6)
 Conflicts: com.michaelmelita1.iris12
 Section: Tweaks
 Description: Enable Camera Features on iOS 12 iPads
