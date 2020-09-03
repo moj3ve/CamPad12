@@ -1,10 +1,8 @@
-# Iris12
-Enable Live Photos on iOS 12
+# CamPad12
+Enable Live Photos and Burst Mode on iOS 12 iPads
 
 ## Download from my repo
-
 https://michaelmelita1.github.io
 
 ## Compatibility
-
-iPhone 5S, 6. iPod Touch 6th Gen. iPad Air, iPad Mini 2
+iPad Air, iPad Mini 2
